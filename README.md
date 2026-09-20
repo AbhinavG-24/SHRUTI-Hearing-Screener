@@ -318,16 +318,12 @@ pytest
 
 **Team QUARK 2.0**
 
-| Name | Role | GitHub |
-| --- | --- | --- |
-| Abhinav Garg | To be added | To be added |
-| Neha Sharma | To be added | To be added |
-| Utkarsh Gupta | To be added | To be added |
-| Aditya Garg | To be added | To be added |
-| Ansh Goyal | To be added | To be added |
-| Shruti Shreshtha | To be added | To be added |
-
-Contact: **To be added**
+- Abhinav Garg
+- Neha Sharma
+- Utkarsh Gupta
+- Aditya Garg
+- Ansh Goyal
+- Shruti Shreshtha
 
 ## 16. Contributing
 
