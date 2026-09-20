@@ -1,0 +1,66 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# ---------- Secrets & local config ----------
+.env
+.env.*
+*.pem
+*.key
+secrets.*
+
+# ---------- OS / editor ----------
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# ---------- Logs & temp ----------
+*.log
+*.tmp
+tmp/
+
+# ---------- Firmware (ESP-IDF / PlatformIO) ----------
+build/
+sdkconfig
+sdkconfig.old
+managed_components/
+dependencies.lock
+.pio/
+
+# ---------- Android (when the app is added) ----------
+.gradle/
+local.properties
+*.apk
+*.aab
+*.jks
+*.keystore
+captures/
+
+# ---------- Hardware / EDA (adjust to your tool) ----------
+*-backups/
+*.kicad_prl
+fp-info-cache
+_autosave-*
+*.bak
+*.bck
+
+# ---------- Large raw media & data (host externally, see Demo/README.md) ----------
+Demo/raw/
+*.mov
+*.mkv
+*.avi
+*.zip
+*.7z
+*.rar
